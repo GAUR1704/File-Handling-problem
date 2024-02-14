@@ -1,0 +1,3 @@
+Hello, this is a text file!
+Java File Handling Example
+Writing data to a file using FileWriter
